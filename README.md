@@ -2,7 +2,7 @@
 
 Embrace the excitement of Commitment Mode, now with a twist!
 
-This mod empowers you by unlocking autosave interval options in Commitment Mode, also known as Permadeath. Now, you can set your autosave interval to as long as 14 days. Say goodbye to save scumming! Play Commitment Mode on your terms - more flexibility, more strategy, more fun!
+This mod empowers you by unlocking autosave interval options in Commitment Mode, also known as Permadeath. Now, you can set your autosave interval to as long as 14 days. Goodbye save scumming, and play Commitment Mode on your terms.
 
 [Mod page Here](https://steamcommunity.com/sharedfiles/filedetails/?id=3195920591)
 
@@ -26,3 +26,4 @@ This mod empowers you by unlocking autosave interval options in Commitment Mode,
 
 - [Continue Button](https://steamcommunity.com/sharedfiles/filedetails/?id=3195912079)
 - [Show/Hide Hats](https://steamcommunity.com/sharedfiles/filedetails/?id=3195895487)
+
